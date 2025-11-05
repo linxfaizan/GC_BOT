@@ -1,0 +1,2610 @@
+[
+  {
+    "question": "What is the capital of Japan?",
+    "options": {
+      "A": "Beijing",
+      "B": "Seoul",
+      "C": "Tokyo",
+      "D": "Bangkok"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": {
+      "A": "Earth",
+      "B": "Jupiter",
+      "C": "Saturn",
+      "D": "Mars"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": {
+      "A": "Charles Dickens",
+      "B": "William Shakespeare",
+      "C": "Jane Austen",
+      "D": "Mark Twain"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "options": {
+      "A": "Tomato",
+      "B": "Avocado",
+      "C": "Onion",
+      "D": "Lime"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What gas do plants absorb from the atmosphere?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Nitrogen",
+      "C": "Carbon Dioxide",
+      "D": "Hydrogen"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In which city is the famous Eiffel Tower located?",
+    "options": {
+      "A": "London",
+      "B": "Rome",
+      "C": "Berlin",
+      "D": "Paris"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the fairy in Peter Pan?",
+    "options": {
+      "A": "Tinker Bell",
+      "B": "Cinderella",
+      "C": "Ariel",
+      "D": "Belle"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the color of an emerald?",
+    "options": {
+      "A": "Red",
+      "B": "Blue",
+      "C": "Green",
+      "D": "Yellow"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many sides does a triangle have?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the freezing point of water in Celsius?",
+    "options": {
+      "A": "100°C",
+      "B": "50°C",
+      "C": "0°C",
+      "D": "-10°C"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which animal is known as the 'King of the Jungle'?",
+    "options": {
+      "A": "Tiger",
+      "B": "Elephant",
+      "C": "Lion",
+      "D": "Bear"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What do bees produce?",
+    "options": {
+      "A": "Milk",
+      "B": "Honey",
+      "C": "Silk",
+      "D": "Wax"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": {
+      "A": "Venus",
+      "B": "Mars",
+      "C": "Jupiter",
+      "D": "Mercury"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the toy cowboy in Toy Story?",
+    "options": {
+      "A": "Buzz Lightyear",
+      "B": "Woody",
+      "C": "Slinky",
+      "D": "Rex"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many days are there in a week?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the opposite of 'hot'?",
+    "options": {
+      "A": "Warm",
+      "B": "Cold",
+      "C": "Spicy",
+      "D": "Sunny"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "options": {
+      "A": "Atlantic",
+      "B": "Indian",
+      "C": "Arctic",
+      "D": "Pacific"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the primary language spoken in Brazil?",
+    "options": {
+      "A": "Spanish",
+      "B": "Portuguese",
+      "C": "English",
+      "D": "French"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the currency of the United States?",
+    "options": {
+      "A": "Euro",
+      "B": "Pound",
+      "C": "Dollar",
+      "D": "Yen"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What type of fish is Nemo?",
+    "options": {
+      "A": "Goldfish",
+      "B": "Shark",
+      "C": "Clownfish",
+      "D": "Tuna"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of England?",
+    "options": {
+      "A": "Manchester",
+      "B": "Liverpool",
+      "C": "London",
+      "D": "Birmingham"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many letters are in the English alphabet?",
+    "options": {
+      "A": "24",
+      "B": "25",
+      "C": "26",
+      "D": "27"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What do you call a baby dog?",
+    "options": {
+      "A": "Kitten",
+      "B": "Puppy",
+      "C": "Calf",
+      "D": "Cub"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which fruit is known to keep the doctor away?",
+    "options": {
+      "A": "Banana",
+      "B": "Orange",
+      "C": "Apple",
+      "D": "Grapes"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the main color of the Smurfs?",
+    "options": {
+      "A": "Red",
+      "B": "Green",
+      "C": "Blue",
+      "D": "Yellow"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In what country would you find the Pyramids of Giza?",
+    "options": {
+      "A": "Greece",
+      "B": "Egypt",
+      "C": "Mexico",
+      "D": "India"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many colors are in a rainbow?",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which superhero can climb walls and shoot webs?",
+    "options": {
+      "A": "Batman",
+      "B": "Superman",
+      "C": "Spider-Man",
+      "D": "Iron Man"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the Earth's moon?",
+    "options": {
+      "A": "Phobos",
+      "B": "Titan",
+      "C": "Luna",
+      "D": "Europa"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the sound a cat makes?",
+    "options": {
+      "A": "Woof",
+      "B": "Moo",
+      "C": "Meow",
+      "D": "Oink"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which of these is a primary color?",
+    "options": {
+      "A": "Green",
+      "B": "Orange",
+      "C": "Red",
+      "D": "Purple"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What do caterpillars turn into?",
+    "options": {
+      "A": "Butterflies",
+      "B": "Bees",
+      "C": "Spiders",
+      "D": "Ants"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which holiday is celebrated on October 31st?",
+    "options": {
+      "A": "Christmas",
+      "B": "Thanksgiving",
+      "C": "Halloween",
+      "D": "Easter"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "options": {
+      "A": "Lion",
+      "B": "Cheetah",
+      "C": "Horse",
+      "D": "Gazelle"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of Mickey Mouse's dog?",
+    "options": {
+      "A": "Goofy",
+      "B": "Pluto",
+      "C": "Donald",
+      "D": "Max"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is H2O also known as?",
+    "options": {
+      "A": "Salt",
+      "B": "Sugar",
+      "C": "Water",
+      "D": "Air"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which sport is played with a bat, a ball, and a wicket?",
+    "options": {
+      "A": "Baseball",
+      "B": "Cricket",
+      "C": "Tennis",
+      "D": "Soccer"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the yellow part of an egg called?",
+    "options": {
+      "A": "White",
+      "B": "Shell",
+      "C": "Yolk",
+      "D": "Albumen"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many players are on a standard soccer team on the field?",
+    "options": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What color is a stop sign?",
+    "options": {
+      "A": "Green",
+      "B": "Yellow",
+      "C": "Red",
+      "D": "Blue"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the princess who lives in a castle with a beast?",
+    "options": {
+      "A": "Snow White",
+      "B": "Belle",
+      "C": "Ariel",
+      "D": "Jasmine"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the tallest animal in the world?",
+    "options": {
+      "A": "Elephant",
+      "B": "Giraffe",
+      "C": "Whale",
+      "D": "Ostrich"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the tool used to hit a nail?",
+    "options": {
+      "A": "Screwdriver",
+      "B": "Wrench",
+      "C": "Hammer",
+      "D": "Pliers"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the story, who had a tea party in Wonderland?",
+    "options": {
+      "A": "Alice",
+      "B": "Dorothy",
+      "C": "Wendy",
+      "D": "Elsa"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the first letter of the alphabet?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "Z"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is a car powered by?",
+    "options": {
+      "A": "Electricity",
+      "B": "Gasoline/Petrol",
+      "C": "Both of the above",
+      "D": "Water"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many wheels does a bicycle have?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the snowman in Frozen?",
+    "options": {
+      "A": "Sven",
+      "B": "Kristoff",
+      "C": "Olaf",
+      "D": "Hans"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which of these animals can fly?",
+    "options": {
+      "A": "Pig",
+      "B": "Bird",
+      "C": "Dog",
+      "D": "Fish"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": {
+      "A": "Venice",
+      "B": "Rome",
+      "C": "Milan",
+      "D": "Florence"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which country is famous for its kangaroos?",
+    "options": {
+      "A": "South Africa",
+      "B": "Australia",
+      "C": "Brazil",
+      "D": "Canada"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What do you use to write on a blackboard?",
+    "options": {
+      "A": "Pen",
+      "B": "Chalk",
+      "C": "Crayon",
+      "D": "Marker"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the shape of a standard stop sign?",
+    "options": {
+      "A": "Circle",
+      "B": "Square",
+      "C": "Octagon",
+      "D": "Triangle"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the boiling point of water in Fahrenheit?",
+    "options": {
+      "A": "100°F",
+      "B": "180°F",
+      "C": "212°F",
+      "D": "32°F"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the main currency of the European Union?",
+    "options": {
+      "A": "Dollar",
+      "B": "Pound Sterling",
+      "C": "Euro",
+      "D": "Franc"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": {
+      "A": "Mercury",
+      "B": "Venus",
+      "C": "Earth",
+      "D": "Mars"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who was the first person to walk on the moon?",
+    "options": {
+      "A": "Buzz Aldrin",
+      "B": "Yuri Gagarin",
+      "C": "Neil Armstrong",
+      "D": "Michael Collins"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": {
+      "A": "Elephant",
+      "B": "Blue Whale",
+      "C": "Giraffe",
+      "D": "Great White Shark"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": {
+      "A": "Ag",
+      "B": "Go",
+      "C": "Au",
+      "D": "Gd"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "options": {
+      "A": "1905",
+      "B": "1912",
+      "C": "1918",
+      "D": "1923"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which artist painted the Mona Lisa?",
+    "options": {
+      "A": "Vincent van Gogh",
+      "B": "Pablo Picasso",
+      "C": "Leonardo da Vinci",
+      "D": "Michelangelo"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "options": {
+      "A": "Monaco",
+      "B": "Nauru",
+      "C": "Vatican City",
+      "D": "San Marino"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": {
+      "A": "Gold",
+      "B": "Iron",
+      "C": "Diamond",
+      "D": "Quartz"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "options": {
+      "A": "Helium",
+      "B": "Oxygen",
+      "C": "Hydrogen",
+      "D": "Carbon"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who is credited with inventing the telephone?",
+    "options": {
+      "A": "Thomas Edison",
+      "B": "Alexander Graham Bell",
+      "C": "Nikola Tesla",
+      "D": "Guglielmo Marconi"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": {
+      "A": "Sydney",
+      "B": "Melbourne",
+      "C": "Canberra",
+      "D": "Perth"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "options": {
+      "A": "United Kingdom",
+      "B": "France",
+      "C": "Spain",
+      "D": "Italy"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "options": {
+      "A": "Amazon River",
+      "B": "Nile River",
+      "C": "Yangtze River",
+      "D": "Mississippi River"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In what year did World War II end?",
+    "options": {
+      "A": "1943",
+      "B": "1945",
+      "C": "1950",
+      "D": "1939"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which famous scientist developed the theory of relativity?",
+    "options": {
+      "A": "Isaac Newton",
+      "B": "Galileo Galilei",
+      "C": "Albert Einstein",
+      "D": "Stephen Hawking"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the main component of the sun?",
+    "options": {
+      "A": "Liquid lava",
+      "B": "Rock",
+      "C": "Gas",
+      "D": "Molten iron"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the seven wonders is located in India?",
+    "options": {
+      "A": "Great Wall of China",
+      "B": "Colosseum",
+      "C": "Taj Mahal",
+      "D": "Machu Picchu"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the study of earthquakes called?",
+    "options": {
+      "A": "Geology",
+      "B": "Seismology",
+      "C": "Volcanology",
+      "D": "Meteorology"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "options": {
+      "A": "Theresa May",
+      "B": "Margaret Thatcher",
+      "C": "Angela Merkel",
+      "D": "Queen Elizabeth II"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the world's highest mountain?",
+    "options": {
+      "A": "K2",
+      "B": "Mount Everest",
+      "C": "Mount Kilimanjaro",
+      "D": "Mont Blanc"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which language has the most native speakers?",
+    "options": {
+      "A": "English",
+      "B": "Mandarin Chinese",
+      "C": "Spanish",
+      "D": "Hindi"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": {
+      "A": "China",
+      "B": "Japan",
+      "C": "South Korea",
+      "D": "Thailand"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of the galaxy our solar system is in?",
+    "options": {
+      "A": "Andromeda",
+      "B": "Milky Way",
+      "C": "Triangulum",
+      "D": "Whirlpool"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many bones are in the adult human body?",
+    "options": {
+      "A": "206",
+      "B": "212",
+      "C": "300",
+      "D": "195"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": {
+      "A": "Won",
+      "B": "Yuan",
+      "C": "Yen",
+      "D": "Baht"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Renaissance artist is famous for the sculpture of David?",
+    "options": {
+      "A": "Donatello",
+      "B": "Raphael",
+      "C": "Leonardo da Vinci",
+      "D": "Michelangelo"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": {
+      "A": "Sahara Desert",
+      "B": "Arabian Desert",
+      "C": "Antarctic Polar Desert",
+      "D": "Gobi Desert"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "options": {
+      "A": "Ernest Hemingway",
+      "B": "F. Scott Fitzgerald",
+      "C": "John Steinbeck",
+      "D": "William Faulkner"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which country has the most islands?",
+    "options": {
+      "A": "Indonesia",
+      "B": "Philippines",
+      "C": "Sweden",
+      "D": "Finland"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the main gas found in the air we breathe?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Nitrogen",
+      "C": "Carbon Dioxide",
+      "D": "Argon"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Greek mythology, who is the god of the sea?",
+    "options": {
+      "A": "Zeus",
+      "B": "Hades",
+      "C": "Poseidon",
+      "D": "Apollo"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What year did the first man land on the moon?",
+    "options": {
+      "A": "1965",
+      "B": "1969",
+      "C": "1972",
+      "D": "1981"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which disease is caused by a vitamin C deficiency?",
+    "options": {
+      "A": "Rickets",
+      "B": "Scurvy",
+      "C": "Pellagra",
+      "D": "Beriberi"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": {
+      "A": "Thomas Jefferson",
+      "B": "Abraham Lincoln",
+      "C": "George Washington",
+      "D": "John Adams"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the 'powerhouse' of the cell?",
+    "options": {
+      "A": "Nucleus",
+      "B": "Ribosome",
+      "C": "Mitochondrion",
+      "D": "Cell membrane"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which two countries are separated by the Bering Strait?",
+    "options": {
+      "A": "USA and Canada",
+      "B": "USA and Russia",
+      "C": "Russia and China",
+      "D": "Japan and Russia"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the speed of light?",
+    "options": {
+      "A": "300,000 km/s",
+      "B": "150,000 km/s",
+      "C": "500,000 km/s",
+      "D": "1,000,000 km/s"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": {
+      "A": "Marie Curie",
+      "B": "Louis Pasteur",
+      "C": "Alexander Fleming",
+      "D": "Robert Koch"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The ancient Roman city of Pompeii was destroyed by what volcano?",
+    "options": {
+      "A": "Mount Etna",
+      "B": "Mount Vesuvius",
+      "C": "Stromboli",
+      "D": "Mount Fuji"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which country is the largest by land area?",
+    "options": {
+      "A": "Canada",
+      "B": "China",
+      "C": "USA",
+      "D": "Russia"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the holy book of Islam?",
+    "options": {
+      "A": "The Bible",
+      "B": "The Torah",
+      "C": "The Quran",
+      "D": "The Vedas"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which author created Sherlock Holmes?",
+    "options": {
+      "A": "Agatha Christie",
+      "B": "Arthur Conan Doyle",
+      "C": "J.K. Rowling",
+      "D": "Charles Dickens"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital city of Canada?",
+    "options": {
+      "A": "Toronto",
+      "B": "Vancouver",
+      "C": "Ottawa",
+      "D": "Montreal"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What type of animal is a Komodo dragon?",
+    "options": {
+      "A": "Bird",
+      "B": "Mammal",
+      "C": "Lizard",
+      "D": "Fish"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which ocean is the smallest?",
+    "options": {
+      "A": "Indian",
+      "B": "Southern",
+      "C": "Arctic",
+      "D": "Atlantic"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": {
+      "A": "Leonardo da Vinci",
+      "B": "Raphael",
+      "C": "Michelangelo",
+      "D": "Caravaggio"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The Great Barrier Reef is located off the coast of which country?",
+    "options": {
+      "A": "Brazil",
+      "B": "Australia",
+      "C": "South Africa",
+      "D": "Mexico"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the main ingredient in the Japanese dish sushi?",
+    "options": {
+      "A": "Noodles",
+      "B": "Rice",
+      "C": "Seaweed",
+      "D": "Tofu"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In which city were the first modern Olympic Games held?",
+    "options": {
+      "A": "Paris",
+      "B": "London",
+      "C": "Athens",
+      "D": "Rome"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "options": {
+      "A": "H2O",
+      "B": "CO2",
+      "C": "NaCl",
+      "D": "C6H12O6"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which country is both in Europe and Asia?",
+    "options": {
+      "A": "Egypt",
+      "B": "Turkey",
+      "C": "Greece",
+      "D": "Iran"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was the leader of the Soviet Union during World War II?",
+    "options": {
+      "A": "Vladimir Lenin",
+      "B": "Joseph Stalin",
+      "C": "Mikhail Gorbachev",
+      "D": "Nikita Khrushchev"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which is the only mammal capable of sustained flight?",
+    "options": {
+      "A": "Flying Squirrel",
+      "B": "Bat",
+      "C": "Ostrich",
+      "D": "Penguin"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": {
+      "A": "Liver",
+      "B": "Brain",
+      "C": "Skin",
+      "D": "Heart"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which famous battle took place in 1066?",
+    "options": {
+      "A": "Battle of Waterloo",
+      "B": "Battle of Hastings",
+      "C": "Battle of Agincourt",
+      "D": "Battle of Trafalgar"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the national animal of Scotland?",
+    "options": {
+      "A": "Lion",
+      "B": "Unicorn",
+      "C": "Eagle",
+      "D": "Bear"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of Shakespeare’s plays is the longest?",
+    "options": {
+      "A": "Hamlet",
+      "B": "Macbeth",
+      "C": "Othello",
+      "D": "King Lear"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In what year was the first iPhone released?",
+    "options": {
+      "A": "2005",
+      "B": "2007",
+      "C": "2009",
+      "D": "2010"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the fear of spiders called?",
+    "options": {
+      "A": "Agoraphobia",
+      "B": "Acrophobia",
+      "C": "Arachnophobia",
+      "D": "Claustrophobia"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": {
+      "A": "Jupiter",
+      "B": "Saturn",
+      "C": "Uranus",
+      "D": "Neptune"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The 'Mona Lisa' is on display in which museum?",
+    "options": {
+      "A": "The British Museum",
+      "B": "The Louvre",
+      "C": "The Metropolitan Museum of Art",
+      "D": "The Prado Museum"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "options": {
+      "A": "90°C",
+      "B": "100°C",
+      "C": "110°C",
+      "D": "120°C"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does a Geiger counter measure?",
+    "options": {
+      "A": "Air pressure",
+      "B": "Radiation",
+      "C": "Earthquakes",
+      "D": "Wind speed"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which two metals is bronze an alloy of?",
+    "options": {
+      "A": "Copper and Zinc",
+      "B": "Copper and Tin",
+      "C": "Iron and Carbon",
+      "D": "Aluminum and Magnesium"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was the Roman god of war?",
+    "options": {
+      "A": "Jupiter",
+      "B": "Apollo",
+      "C": "Mars",
+      "D": "Mercury"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many states are there in the United States of America?",
+    "options": {
+      "A": "48",
+      "B": "49",
+      "C": "50",
+      "D": "51"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "options": {
+      "A": "Santiago",
+      "B": "Buenos Aires",
+      "C": "Rio de Janeiro",
+      "D": "Lima"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the title of the first Harry Potter book?",
+    "options": {
+      "A": "The Chamber of Secrets",
+      "B": "The Prisoner of Azkaban",
+      "C": "The Philosopher's Stone",
+      "D": "The Goblet of Fire"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In which century was the Mona Lisa painted?",
+    "options": {
+      "A": "15th",
+      "B": "16th",
+      "C": "17th",
+      "D": "18th"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the name of the deepest point in Earth's oceans?",
+    "options": {
+      "A": "The Mariana Trench",
+      "B": "The Tonga Trench",
+      "C": "The Philippine Trench",
+      "D": "The Kermadec Trench"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who composed the music for 'The Four Seasons'?",
+    "options": {
+      "A": "Mozart",
+      "B": "Bach",
+      "C": "Beethoven",
+      "D": "Vivaldi"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In which country did the Chernobyl disaster occur?",
+    "options": {
+      "A": "Russia",
+      "B": "Belarus",
+      "C": "Ukraine",
+      "D": "Kazakhstan"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the most consumed manufactured drink in the world?",
+    "options": {
+      "A": "Coffee",
+      "B": "Tea",
+      "C": "Coca-Cola",
+      "D": "Beer"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which of these elements is a liquid at room temperature?",
+    "options": {
+      "A": "Gallium",
+      "B": "Bromine",
+      "C": "Mercury",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The ancient city of Carthage was located in which modern-day country?",
+    "options": {
+      "A": "Greece",
+      "B": "Italy",
+      "C": "Tunisia",
+      "D": "Egypt"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the term for the dot over the letter 'i' or 'j'?",
+    "options": {
+      "A": "Diacritic",
+      "B": "Tittle",
+      "C": "Accent",
+      "D": "Dot"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which country has the longest coastline in the world?",
+    "options": {
+      "A": "Australia",
+      "B": "Canada",
+      "C": "Indonesia",
+      "D": "Russia"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the oldest university in the English-speaking world?",
+    "options": {
+      "A": "University of Cambridge",
+      "B": "University of Oxford",
+      "C": "Harvard University",
+      "D": "University of St Andrews"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In what year did the French Revolution begin?",
+    "options": {
+      "A": "1776",
+      "B": "1789",
+      "C": "1804",
+      "D": "1815"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the most common blood type in humans?",
+    "options": {
+      "A": "A+",
+      "B": "B-",
+      "C": "O+",
+      "D": "AB+"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who wrote the philosophical book 'Thus Spoke Zarathustra'?",
+    "options": {
+      "A": "Immanuel Kant",
+      "B": "Friedrich Nietzsche",
+      "C": "Søren Kierkegaard",
+      "D": "Jean-Paul Sartre"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which of the following is NOT a prime number?",
+    "options": {
+      "A": "53",
+      "B": "89",
+      "C": "91",
+      "D": "97"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the name of the theoretical boundary around a black hole from which nothing can escape?",
+    "options": {
+      "A": "Singularity",
+      "B": "Event Horizon",
+      "C": "Accretion Disk",
+      "D": "Photon Sphere"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which country was formerly known as Siam?",
+    "options": {
+      "A": "Vietnam",
+      "B": "Thailand",
+      "C": "Cambodia",
+      "D": "Myanmar"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital of Iceland?",
+    "options": {
+      "A": "Oslo",
+      "B": "Helsinki",
+      "C": "Reykjavik",
+      "D": "Copenhagen"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The historical period of the Renaissance originated in which city?",
+    "options": {
+      "A": "Rome",
+      "B": "Venice",
+      "C": "Florence",
+      "D": "Milan"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does the 'C' in E=mc² stand for?",
+    "options": {
+      "A": "Carbon",
+      "B": "Constant",
+      "C": "The speed of light",
+      "D": "Centigrade"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the last pharaoh of Egypt?",
+    "options": {
+      "A": "Tutankhamun",
+      "B": "Ramesses II",
+      "C": "Cleopatra VII",
+      "D": "Akhenaten"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the only sea on Earth with no coastline?",
+    "options": {
+      "A": "Red Sea",
+      "B": "Sargasso Sea",
+      "C": "Dead Sea",
+      "D": "Caspian Sea"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which English king was the last to die in battle?",
+    "options": {
+      "A": "Henry V",
+      "B": "Richard III",
+      "C": "Edward III",
+      "D": "Harold Godwinson"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the scientific study of fungi called?",
+    "options": {
+      "A": "Botany",
+      "B": "Mycology",
+      "C": "Virology",
+      "D": "Zoology"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In which war was the Battle of Gettysburg fought?",
+    "options": {
+      "A": "American Revolutionary War",
+      "B": "American Civil War",
+      "C": "War of 1812",
+      "D": "World War I"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the main ingredient of the popular Korean dish kimchi?",
+    "options": {
+      "A": "Cabbage",
+      "B": "Radish",
+      "C": "Cucumber",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The ancient Hanging Gardens were a wonder of which city?",
+    "options": {
+      "A": "Athens",
+      "B": "Rome",
+      "C": "Babylon",
+      "D": "Alexandria"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which author wrote 'One Hundred Years of Solitude'?",
+    "options": {
+      "A": "Jorge Luis Borges",
+      "B": "Gabriel García Márquez",
+      "C": "Julio Cortázar",
+      "D": "Mario Vargas Llosa"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the name of the first man-made satellite to orbit Earth?",
+    "options": {
+      "A": "Explorer 1",
+      "B": "Sputnik 1",
+      "C": "Vanguard 1",
+      "D": "Telstar 1"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the process of splitting an atomic nucleus called?",
+    "options": {
+      "A": "Fusion",
+      "B": "Fission",
+      "C": "Decay",
+      "D": "Radiation"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who is known as the 'Father of the Computer'?",
+    "options": {
+      "A": "Alan Turing",
+      "B": "Charles Babbage",
+      "C": "John von Neumann",
+      "D": "Bill Gates"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which country is the largest producer of coffee in the world?",
+    "options": {
+      "A": "Colombia",
+      "B": "Vietnam",
+      "C": "Brazil",
+      "D": "Ethiopia"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The Strait of Gibraltar separates the Iberian Peninsula from what?",
+    "options": {
+      "A": "Italy",
+      "B": "North Africa",
+      "C": "The Balkans",
+      "D": "The Middle East"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the art of paper folding called?",
+    "options": {
+      "A": "Kirigami",
+      "B": "Origami",
+      "C": "Calligraphy",
+      "D": "Bonsai"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which composer was deaf for most of his later life?",
+    "options": {
+      "A": "Bach",
+      "B": "Mozart",
+      "C": "Beethoven",
+      "D": "Schubert"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In what year was the United Nations founded?",
+    "options": {
+      "A": "1919",
+      "B": "1945",
+      "C": "1955",
+      "D": "1962"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The ancient Incan citadel of Machu Picchu is in which country?",
+    "options": {
+      "A": "Bolivia",
+      "B": "Peru",
+      "C": "Ecuador",
+      "D": "Colombia"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is aglet?",
+    "options": {
+      "A": "A type of bird",
+      "B": "The plastic tip of a shoelace",
+      "C": "A small river",
+      "D": "A unit of measurement"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the most spoken language in the world (including non-native speakers)?",
+    "options": {
+      "A": "Mandarin Chinese",
+      "B": "Spanish",
+      "C": "English",
+      "D": "Hindi"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which is the largest island in the Mediterranean Sea?",
+    "options": {
+      "A": "Sardinia",
+      "B": "Cyprus",
+      "C": "Sicily",
+      "D": "Crete"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the first emperor of Rome?",
+    "options": {
+      "A": "Julius Caesar",
+      "B": "Augustus",
+      "C": "Nero",
+      "D": "Constantine"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does a cartographer create?",
+    "options": {
+      "A": "Cars",
+      "B": "Carts",
+      "C": "Maps",
+      "D": "Clothing"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which country is home to the ancient city of Petra?",
+    "options": {
+      "A": "Egypt",
+      "B": "Jordan",
+      "C": "Syria",
+      "D": "Israel"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the name of the currency used in Switzerland?",
+    "options": {
+      "A": "Euro",
+      "B": "Franc",
+      "C": "Krone",
+      "D": "Lira"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the world's most venomous fish?",
+    "options": {
+      "A": "Pufferfish",
+      "B": "Stonefish",
+      "C": "Lionfish",
+      "D": "Box Jellyfish"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The Hundred Years' War was fought between which two countries?",
+    "options": {
+      "A": "England and France",
+      "B": "Spain and Portugal",
+      "C": "Rome and Carthage",
+      "D": "England and Scotland"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In computing, what does 'GUI' stand for?",
+    "options": {
+      "A": "General User Interface",
+      "B": "Graphical User Interface",
+      "C": "Global User Identifier",
+      "D": "Gaming User Input"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which of these is not one of the four fundamental forces of nature?",
+    "options": {
+      "A": "Gravity",
+      "B": "Friction",
+      "C": "Strong Nuclear Force",
+      "D": "Electromagnetism"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital of Morocco?",
+    "options": {
+      "A": "Casablanca",
+      "B": "Marrakech",
+      "C": "Rabat",
+      "D": "Fez"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The film 'Blade Runner' is a dystopian adaptation of which author's novel?",
+    "options": {
+      "A": "Isaac Asimov",
+      "B": "Philip K. Dick",
+      "C": "Arthur C. Clarke",
+      "D": "William Gibson"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the name of the world's largest active volcano?",
+    "options": {
+      "A": "Mount Fuji",
+      "B": "Mauna Loa",
+      "C": "Mount Etna",
+      "D": "Krakatoa"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many lines are in a sonnet?",
+    "options": {
+      "A": "12",
+      "B": "14",
+      "C": "16",
+      "D": "20"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which country has the highest number of time zones?",
+    "options": {
+      "A": "Russia",
+      "B": "USA",
+      "C": "France",
+      "D": "China"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the primary ingredient in the alcoholic beverage 'sake'?",
+    "options": {
+      "A": "Barley",
+      "B": "Rice",
+      "C": "Grapes",
+      "D": "Potatoes"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the second person to walk on the moon?",
+    "options": {
+      "A": "Michael Collins",
+      "B": "Yuri Gagarin",
+      "C": "Buzz Aldrin",
+      "D": "Alan Shepard"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the fear of long words called?",
+    "options": {
+      "A": "Sesquipedalophobia",
+      "B": "Glossophobia",
+      "C": "Phonophobia",
+      "D": "Logophobia"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which of these is a programming language named after a person?",
+    "options": {
+      "A": "Python",
+      "B": "Java",
+      "C": "Pascal",
+      "D": "Ruby"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the name of the sea between Europe and Africa?",
+    "options": {
+      "A": "Black Sea",
+      "B": "Mediterranean Sea",
+      "C": "Red Sea",
+      "D": "Adriatic Sea"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which famous artist cut off a part of his own ear?",
+    "options": {
+      "A": "Pablo Picasso",
+      "B": "Claude Monet",
+      "C": "Vincent van Gogh",
+      "D": "Salvador Dalí"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the Schrodinger's Cat thought experiment related to?",
+    "options": {
+      "A": "General Relativity",
+      "B": "Classical Mechanics",
+      "C": "Quantum Mechanics",
+      "D": "Thermodynamics"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which sport is known as 'The Sport of Kings'?",
+    "options": {
+      "A": "Polo",
+      "B": "Horse Racing",
+      "C": "Fencing",
+      "D": "Sailing"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the main purpose of a ship's rudder?",
+    "options": {
+      "A": "To increase speed",
+      "B": "To steer the ship",
+      "C": "To provide stability",
+      "D": "To act as a brake"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The philosophical concept of 'tabula rasa' means what?",
+    "options": {
+      "A": "Seize the day",
+      "B": "Blank slate",
+      "C": "I think, therefore I am",
+      "D": "The die is cast"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the common name for the Aurora Borealis?",
+    "options": {
+      "A": "Southern Lights",
+      "B": "Equatorial Lights",
+      "C": "Northern Lights",
+      "D": "Western Lights"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which city is known as 'The Big Apple'?",
+    "options": {
+      "A": "Los Angeles",
+      "B": "Chicago",
+      "C": "New York City",
+      "D": "Boston"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the process by which plants make their own food?",
+    "options": {
+      "A": "Respiration",
+      "B": "Photosynthesis",
+      "C": "Transpiration",
+      "D": "Germination"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In the human body, what is the femur?",
+    "options": {
+      "A": "Jawbone",
+      "B": "Collarbone",
+      "C": "Thigh bone",
+      "D": "Shin bone"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which country invented paper?",
+    "options": {
+      "A": "Egypt",
+      "B": "Greece",
+      "C": "China",
+      "D": "India"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was the ancient Greek god of wine and festivity?",
+    "options": {
+      "A": "Apollo",
+      "B": "Dionysus",
+      "C": "Hermes",
+      "D": "Ares"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The Rosetta Stone was key to deciphering what ancient writing system?",
+    "options": {
+      "A": "Cuneiform",
+      "B": "Hieroglyphics",
+      "C": "Linear B",
+      "D": "Phoenician"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which of these is a type of cloud?",
+    "options": {
+      "A": "Stratus",
+      "B": "Cirrus",
+      "C": "Cumulus",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "options": {
+      "A": "Busan",
+      "B": "Seoul",
+      "C": "Incheon",
+      "D": "Pyongyang"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the common name for Canis lupus familiaris?",
+    "options": {
+      "A": "Wolf",
+      "B": "Fox",
+      "C": "Coyote",
+      "D": "Domestic dog"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which movie was the first to be released in the Marvel Cinematic Universe (MCU)?",
+    "options": {
+      "A": "The Incredible Hulk",
+      "B": "Thor",
+      "C": "Iron Man",
+      "D": "Captain America: The First Avenger"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the study of birds called?",
+    "options": {
+      "A": "Herpetology",
+      "B": "Entomology",
+      "C": "Ornithology",
+      "D": "Ichthyology"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The historical Silk Road connected Europe with which continent?",
+    "options": {
+      "A": "Africa",
+      "B": "Asia",
+      "C": "Australia",
+      "D": "North America"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is the author of 'The Hobbit'?",
+    "options": {
+      "A": "C.S. Lewis",
+      "B": "J.K. Rowling",
+      "C": "J.R.R. Tolkien",
+      "D": "George R.R. Martin"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the pH of pure water?",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In which country would you find the city of Kathmandu?",
+    "options": {
+      "A": "India",
+      "B": "Nepal",
+      "C": "Bhutan",
+      "D": "Tibet"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the first video game to be played in space?",
+    "options": {
+      "A": "Pong",
+      "B": "Tetris",
+      "C": "Pac-Man",
+      "D": "Space Invaders"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which of these is NOT a member of the Beatles?",
+    "options": {
+      "A": "John Lennon",
+      "B": "Mick Jagger",
+      "C": "Paul McCartney",
+      "D": "George Harrison"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who was the Greek goddess of wisdom and warfare?",
+    "options": {
+      "A": "Hera",
+      "B": "Aphrodite",
+      "C": "Artemis",
+      "D": "Athena"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which element is crucial for the production of nuclear energy?",
+    "options": {
+      "A": "Lithium",
+      "B": "Uranium",
+      "C": "Radium",
+      "D": "Thorium"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The 'Ring of Fire' is a major area in the basin of which ocean?",
+    "options": {
+      "A": "Atlantic Ocean",
+      "B": "Indian Ocean",
+      "C": "Arctic Ocean",
+      "D": "Pacific Ocean"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of the first novel ever written?",
+    "options": {
+      "A": "Don Quixote",
+      "B": "The Tale of Genji",
+      "C": "Le Morte d'Arthur",
+      "D": "The Epic of Gilgamesh"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": {
+      "A": "Barcelona",
+      "B": "Seville",
+      "C": "Madrid",
+      "D": "Lisbon"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which musical instrument has 88 keys?",
+    "options": {
+      "A": "Guitar",
+      "B": "Violin",
+      "C": "Piano",
+      "D": "Flute"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the main function of the kidneys?",
+    "options": {
+      "A": "To pump blood",
+      "B": "To digest food",
+      "C": "To filter blood and produce urine",
+      "D": "To produce hormones"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who painted 'Starry Night'?",
+    "options": {
+      "A": "Claude Monet",
+      "B": "Vincent van Gogh",
+      "C": "Pablo Picasso",
+      "D": "Edvard Munch"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of the currency in India?",
+    "options": {
+      "A": "Rupiah",
+      "B": "Rupee",
+      "C": "Ringgit",
+      "D": "Baht"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The city of Timbuktu is located in which modern-day country?",
+    "options": {
+      "A": "Nigeria",
+      "B": "Mali",
+      "C": "Sudan",
+      "D": "Ethiopia"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital of New Zealand?",
+    "options": {
+      "A": "Auckland",
+      "B": "Wellington",
+      "C": "Christchurch",
+      "D": "Queenstown"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many time zones are there in Russia?",
+    "options": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the process of a liquid turning into a gas called?",
+    "options": {
+      "A": "Condensation",
+      "B": "Evaporation",
+      "C": "Sublimation",
+      "D": "Freezing"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which of these is a type of pasta?",
+    "options": {
+      "A": "Penne",
+      "B": "Rigatoni",
+      "C": "Spaghetti",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who was the first human to travel into space?",
+    "options": {
+      "A": "Neil Armstrong",
+      "B": "John Glenn",
+      "C": "Yuri Gagarin",
+      "D": "Alan Shepard"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In which country did the game of chess originate?",
+    "options": {
+      "A": "China",
+      "B": "Persia",
+      "C": "India",
+      "D": "Egypt"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the official language of Egypt?",
+    "options": {
+      "A": "English",
+      "B": "French",
+      "C": "Arabic",
+      "D": "Coptic"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which mammal lays eggs?",
+    "options": {
+      "A": "Kangaroo",
+      "B": "Platypus",
+      "C": "Koala",
+      "D": "Dolphin"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In which city is the famous 'Christ the Redeemer' statue?",
+    "options": {
+      "A": "Mexico City",
+      "B": "Rio de Janeiro",
+      "C": "Lisbon",
+      "D": "Buenos Aires"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "options": {
+      "A": "Alexandria",
+      "B": "Cairo",
+      "C": "Giza",
+      "D": "Luxor"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name for the study of the stars and universe?",
+    "options": {
+      "A": "Astrology",
+      "B": "Geology",
+      "C": "Astronomy",
+      "D": "Cosmetology"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which movie features the character 'Darth Vader'?",
+    "options": {
+      "A": "Star Trek",
+      "B": "Star Wars",
+      "C": "Blade Runner",
+      "D": "The Matrix"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Mexico?",
+    "options": {
+      "A": "Cancun",
+      "B": "Guadalajara",
+      "C": "Tijuana",
+      "D": "Mexico City"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the largest country in South America?",
+    "options": {
+      "A": "Argentina",
+      "B": "Brazil",
+      "C": "Colombia",
+      "D": "Peru"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which of these is NOT a fruit?",
+    "options": {
+      "A": "Tomato",
+      "B": "Cucumber",
+      "C": "Rhubarb",
+      "D": "Avocado"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of the world's most spoken constructed language?",
+    "options": {
+      "A": "Klingon",
+      "B": "Esperanto",
+      "C": "Interlingua",
+      "D": "Lojban"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which country is also an entire continent?",
+    "options": {
+      "A": "Greenland",
+      "B": "India",
+      "C": "Australia",
+      "D": "Brazil"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who painted the famous artwork 'The Persistence of Memory'?",
+    "options": {
+      "A": "Frida Kahlo",
+      "B": "Salvador Dalí",
+      "C": "René Magritte",
+      "D": "Joan Miró"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many dots appear on a pair of dice?",
+    "options": {
+      "A": "36",
+      "B": "42",
+      "C": "48",
+      "D": "21"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of the first successful vaccine, created by Edward Jenner?",
+    "options": {
+      "A": "Polio vaccine",
+      "B": "Smallpox vaccine",
+      "C": "Measles vaccine",
+      "D": "Rabies vaccine"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital of Portugal?",
+    "options": {
+      "A": "Porto",
+      "B": "Lisbon",
+      "C": "Faro",
+      "D": "Coimbra"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the term for a word that is spelled the same forwards and backwards?",
+    "options": {
+      "A": "Synonym",
+      "B": "Antonym",
+      "C": "Palindrome",
+      "D": "Homophone"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  }
+]
+
